@@ -12,6 +12,8 @@ The basic abstraction of the code can be as we calculate the prior and likelihoo
 
 Based on these probability calculations we classify the document.
 
+
+
 References
 [1] https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c
 [2] https://www.youtube.com/watch?v=O2L2Uv9pdDA&t=626s
